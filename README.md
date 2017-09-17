@@ -1,4 +1,8 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter - youtube video page.
+
+This repo is based on a tutorial from StephenGrider at Udemy which I would highly recommend checking out.
+Follow the instructions below to install a finished version of the React part of the course - which focuses on
+the use of React (without Redux / RX).
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
